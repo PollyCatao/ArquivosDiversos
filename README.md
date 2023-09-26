@@ -1,21 +1,9 @@
 ### Olá Devs! 👋
 
-<!--
-**PollyCatao/PollyCatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PollyCatao&show_icons=true&theme=merko&hide=contribs) -->
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyCatao&theme=dracula&hide_langs_below=1" />
+</a>
 
 ```js
 import Desenvolvedor from "PollyCatao";
@@ -33,6 +21,9 @@ class Skills extends Desenvolvedor {
   frameworks = ["Seus frameworks"];
 }
 ```
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PollyCatao&show_icons=true&theme=dracula&line_height=27" alt="**POLLYANNA CATAO** github stats"/>
+</a>
 ### 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
@@ -68,12 +59,8 @@ class Skills extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
-### 💬 Status
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+
+
+
