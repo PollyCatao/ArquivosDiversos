@@ -1,9 +1,7 @@
 ### Olá Devs! 👋
 
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyCatao&theme=dracula&hide_langs_below=1" />
-</a>
+
 
 ```js
 import Desenvolvedor from "PollyCatao";
@@ -21,9 +19,7 @@ class Skills extends Desenvolvedor {
   frameworks = ["Seus frameworks"];
 }
 ```
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PollyCatao&show_icons=true&theme=dracula&line_height=27" alt="**POLLYANNA CATAO** github stats"/>
-</a>
+
 ### 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
@@ -37,8 +33,14 @@ class Skills extends Desenvolvedor {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle/oracle" alt="Oracle"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlserver/sqlserver" alt="SqlserverSQL"/></code>
 
+### 💼 Status:
 
-
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyCatao&theme=dracula&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PollyCatao&show_icons=true&theme=dracula&line_height=27" alt="**POLLYANNA CATAO** github stats"/>
+</a>
 
 ### ⚡ Meus contatos:
 
