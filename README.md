@@ -8,8 +8,8 @@ import Desenvolvedor from "PollyCatao";
 
 class SobreMim extends Desenvolvedor {
   nome = "Pollyanna Catão";
-  area = "Analista de TI, com 12 anos de experiência desenvolvendo sistemas para as mais diversas áreas: siderurgia, transporte, fiscais, entre outros.";
-  trabalho = "Argo Inteligência Digital";
+  area = "Analista de TI, com 12 anos de experiência desenvolvendo sistemas para as mais diversas áreas: industria, transporte, entre outros.";
+  trabalho = "Argo Inteligência Digital, desenvolvendo sistemas com foco no desenvolvimento .NET (front e backend)";
   local = "Atuo na sustentação e desenvolvimento de sistemas da Secretaria da Fazenda do estado do Espírito Santo - SEFAZ";
 }
 
