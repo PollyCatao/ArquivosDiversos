@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PollyCatao&show_icons=true&theme=merko&hide=contribs) -->
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 ```js
 import Desenvolvedor from "PollyCatao";
 
@@ -33,7 +33,7 @@ class Skills extends Desenvolvedor {
   frameworks = ["Seus frameworks"];
 }
 ```
-## 🚀 Minhas Skills
+### 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
