@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Meus contatos:
+
+😁 [Meu site](https://www.pollyannacatao.dev.br)<br/>
+:white_check_mark: [WhatsApp](https://api.whatsapp.com/send?phone=5527996278699)<br/>
+💼 [LinkedIn](https://www.linkedin.com/in/pollyannacatao)<br/>
+✉ E-mail: pollyannacatao@gmail.com
