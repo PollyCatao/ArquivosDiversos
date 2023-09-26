@@ -8,7 +8,7 @@ import Desenvolvedor from "PollyCatao";
 
 class SobreMim extends Desenvolvedor {
   nome = "Pollyanna Catão";
-  area = "Analista de TI, com 12 anos de experiência desenvolvendo soluções com gestão estratégica, atuando na sustentação e desenvolvimento de Software, na implantação de sistemas, entrega de novos projetos, atuando com    desenvolvimento nas estruturas de desenvolvimento de software em .Net Framework, .Net Core, Net6, PHP-Laravel. ";
+  area = "Analista de TI, com 12 anos de experiência desenvolvendo sistemas para as mais diversas áreas: siderurgia, transporte, sistemas fiscais, entre outros.";
   trabalho = "Argo Inteligência Digital";
   local = "Atuo na sustentação e desenvolvimento de sistemas da Secretaria da Fazenda do estado do Espírito Santo - SEFAZ";
 }
@@ -16,7 +16,7 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens = ["Suas linguagens"];
   bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  frameworks = [".Net Framework, .Net Core, Net6, PHP-Laravel"];
 }
 ```
 
