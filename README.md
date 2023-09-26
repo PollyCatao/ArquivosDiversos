@@ -8,7 +8,7 @@ import Desenvolvedor from "PollyCatao";
 
 class SobreMim extends Desenvolvedor {
   nome = "Pollyanna Catão";
-  area = "Analista de TI, com 12 anos de experiência desenvolvendo sistemas para as mais diversas áreas: siderurgia, transporte, sistemas fiscais, entre outros.";
+  area = "Analista de TI, com 12 anos de experiência desenvolvendo sistemas para as mais diversas áreas: siderurgia, transporte, fiscais, entre outros.";
   trabalho = "Argo Inteligência Digital";
   local = "Atuo na sustentação e desenvolvimento de sistemas da Secretaria da Fazenda do estado do Espírito Santo - SEFAZ";
 }
@@ -17,6 +17,7 @@ class Skills extends Desenvolvedor {
   aplicacoeseDados = ["C++, JavaScript, C#"];
   devOps = ["Git, GitHub, Docker"];
   frameworks = [".Net Framework, .Net Core, Net6, PHP-Laravel"];
+  ferramentas = ["VsCode, Trello"];
 }
 ```
 
