@@ -14,8 +14,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
+  aplicacoeseDados = ["C++, JavaScript, C#"];
+  devOps = ["Git, GitHub, Docker"];
   frameworks = [".Net Framework, .Net Core, Net6, PHP-Laravel"];
 }
 ```
