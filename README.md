@@ -46,6 +46,11 @@ class Skills extends Desenvolvedor {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle/oracle" alt="Oracle"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlserver/sqlserver" alt="SqlserverSQL"/></code>
 
+
+
+
+### ⚡ Meus contatos:
+
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
@@ -63,7 +68,7 @@ class Skills extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
-## Status
+### 💬 Status
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
@@ -72,10 +77,3 @@ class Skills extends Desenvolvedor {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-
-⚡ Meus contatos:
-
-😁 [Meu site](https://www.pollyannacatao.dev.br)<br/>
-:white_check_mark: [WhatsApp](https://api.whatsapp.com/send?phone=5527996278699)<br/>
-💼 [LinkedIn](https://www.linkedin.com/in/pollyannacatao)<br/>
-✉ E-mail: pollyannacatao@gmail.com
